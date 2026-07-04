@@ -3,7 +3,7 @@
 
 ## Urdu Poetry Platform
 
-Ahl-e-Sukhan is a modern Urdu poetry platform designed for poetry lovers, readers, and writers. The project focuses on providing an elegant reading experience with a clean interface and modern web technologies.
+PoetryWithSufyan is a modern Urdu poetry platform designed for poetry lovers, readers, and writers. The project focuses on providing an elegant reading experience with a clean interface and modern web technologies.
 
 ---
 
