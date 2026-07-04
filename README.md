@@ -78,7 +78,11 @@ Ahl-e-Sukhan provides:
 # Demo Video
 
 A complete walkthrough video is available inside the **demo** folder.
-![](demo.mp4)
+## 🎥 Demo Video
+
+[![Watch Demo](./ScrenShots/Homepage.png)](./demo.mp4)
+
+> Click the image above to watch the demo video.
 ---
 
 # Features
