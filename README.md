@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# 🎭 Ahl-e-Sukhan
+# 🎭 PoetryWithSufyan
 
 ## Urdu Poetry Platform
 
