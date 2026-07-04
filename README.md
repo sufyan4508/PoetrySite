@@ -83,6 +83,8 @@ A complete walkthrough video is available inside the **demo** folder.
 [![Watch Demo](./ScrenShots/Homepage.png)](./demo.mp4)
 
 > Click the image above to watch the demo video.
+
+📥 [Download Demo Video](./demo.mp4)
 ---
 
 # Features
